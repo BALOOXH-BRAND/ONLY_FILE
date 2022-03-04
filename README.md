@@ -7,3 +7,17 @@ I AM NOT ALOWED ANY ILIGL PERPS
 NOTICE: PLEASE DON'T CHANGE AUTHOR NAME
 
 THANKS USING MY TOOL😊
+
+
+#USAGE 👇🏻👇🏻👇🏻
+
+git clone https://github.com/BALOOXH-BRAND/ONLY_FILE
+
+
+cd ONLY_FILE
+
+ls
+
+#RUN...👇🏻👇🏻👇🏻
+
+python2 FILE-CRACK.pyc
